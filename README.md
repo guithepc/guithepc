@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.
+Backend Java Engineer with 5+ years of experience designing and maintaining enterprise-grade integration systems for major financial institutions. Proven track record of reducing troubleshooting time through robust observability and error-handling strategies, successfully migrating 100+ webservice endpoints while maintaining 99.9% availability across systems handling 4M+ daily requests. Skilled in Java, Quarkus, Apache Camel, Kafka, and cloud-native architectures on OpenShift/Kubernetes. Currently focused on complex cross-system integrations involving Salesforce, SAP, and real-time data pipelines for the energy sector in Scotland.
 
 
 ---
