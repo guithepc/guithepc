@@ -63,5 +63,6 @@ Backend engineer moving into AI engineering. I build LLM-powered products on top
 
 ### Currently
 
-- Building cross-system integrations between Salesforce, SAP and real-time data pipelines for the energy sector in Scotland.
+- Software engineer at a startup building custom software for businesses across Europe, including ERP and CRM solutions.
+- Working on [ScanFatura](https://scanfatura.com): snap a photo of any invoice, Portuguese or foreign, and the data lands in the right spreadsheet, ready for the accountant.
 - Shipping side products with LLM features end to end, from backend to UI.
