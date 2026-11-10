@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme Pessoa
+# Guilherme Pessoa
 
 **Backend & AI Engineer** · Lisbon, Portugal
 
